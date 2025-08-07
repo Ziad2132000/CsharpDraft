@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            
+            string? userInput = Console.ReadLine();
+            bool result = int.TryParse(userInput, out int number);
         }
     }
 }
