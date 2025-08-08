@@ -1,0 +1,15 @@
+D:\c#projects\Projects\C#Draft\C#Draft\bin\Debug\net9.0\C#Draft.exe
+D:\c#projects\Projects\C#Draft\C#Draft\bin\Debug\net9.0\C#Draft.deps.json
+D:\c#projects\Projects\C#Draft\C#Draft\bin\Debug\net9.0\C#Draft.runtimeconfig.json
+D:\c#projects\Projects\C#Draft\C#Draft\bin\Debug\net9.0\C#Draft.dll
+D:\c#projects\Projects\C#Draft\C#Draft\bin\Debug\net9.0\C#Draft.pdb
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.AssemblyInfoInputs.cache
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.AssemblyInfo.cs
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.csproj.CoreCompileInputs.cache
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.sourcelink.json
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.dll
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\refint\C#Draft.dll
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.pdb
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\C#Draft.genruntimeconfig.cache
+D:\c#projects\Projects\C#Draft\C#Draft\obj\Debug\net9.0\ref\C#Draft.dll
